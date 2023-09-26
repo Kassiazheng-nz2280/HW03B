@@ -1,9 +1,17 @@
 # p5.js Template
 
-This is a README file that can be used to describe and document your assignment.
-
-Markdown Cheatsheet (from [https://www.markdownguide.org/cheat-sheet/](https://www.markdownguide.org/cheat-sheet/)):
-
+I first use Loop to draw multiple circles
+Then I randomly choose the circle size
+Then randomly choose the circle's position within the canvas
+Then randomly choose the circle's color
+Then set the fill color
+Then draw the circle with the chosen properties
+my circle is dancing aournd
+so i used randomSeed() to control it
+my circle is too small
+so i change the size and amount
+they are still overlapping each other
+i am thinking to use dist to sepearte the distance
 ---
 ---
 
